@@ -1,0 +1,19 @@
+GIT - Basics
+
+Git Is A Software, Git-Hub is a Central Repository
+
+In Git We have 3 Phases,
+
+1. WorkSpace
+2. Staging/Index
+3. Local Repo
+
+Workspace:- Any New Files Creating Or Existing File Modifications are Coming under Workspace Area.
+
+Staging/Index:- Tracking Information and all Coming under This Area, Like When we commit it will automatically pick the data 
+from Configurations Like you know
+
+* User Name (Author Name), Email ID As well as What Purpose we are going to Commit these files Info Will get.
+
+Local Repo:- If Anything you want to Push into Central Repository, That Files Should be there in Local Repository
+ [Can't Push the Files into Central Repository By Using Workspace Area/Staging area]
